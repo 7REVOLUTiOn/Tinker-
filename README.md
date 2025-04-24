@@ -1,5 +1,4 @@
 # Tinker 
-## _Свободный Open-Source проект для энтузиастов и не только_
 <div align="center">
 <img src="https://github.com/Yuexuan9/Tinker/raw/main/docs/images/t01.JPG" height="300" />
 </div>
